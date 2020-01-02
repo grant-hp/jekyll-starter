@@ -2,12 +2,14 @@
 
 A Jekyll project based on the Step By Step [Tutorial] to use as a baseline for static websites. Its intended to evolve ove this into the full website for hp tennis
 
-to install and run local
+## Install and run locally
 
-bundle install
-if you update the Gemfile you can use bundle update
-then to run the server locally
-bundle exec jekyll serve
+To install and run locally run the following:
+
+* bundle install
+* bundle update - if you update the Gemfile
+* bundle exec jekyll serve - to run the server locally
+
 
 Then navigate to http://loclhost:4000
 
